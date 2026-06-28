@@ -153,6 +153,6 @@ tradeoffs architects make when sizing a real deployment.
 
 ---
 
-*Built as part of a cloud computing course project. Live infrastructure has since
+Built as part of a cloud computing course project. Live infrastructure has since
 been decommissioned to avoid ongoing AWS charges; this repository documents the
-design, configuration, and lessons learned.*
+design, configuration, and lessons learned.
